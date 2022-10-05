@@ -1,0 +1,26 @@
+.table {
+    margin: 20px auto;
+    font-size: 18px;
+    padding: 20px;
+    background-color: rgba(150, 149, 153, 0.493);
+    width: 300px;
+    border-collapse:collapse;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.head {
+background-color: rgba(97, 161, 188, 0.719);
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+tbody>tr{
+    background-color: #d7d6d6;
+        box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+th,
+td {
+    padding: 20px;
+}
